@@ -23,4 +23,5 @@ A simple Android task manager application that allows users to view a list of ta
 ``git clone https://github.com/el-hadji-mamadou-sarr/kotlin-taskmanager.git``
 
 ## Screenshots
+![reame-task-manager](https://github.com/user-attachments/assets/57272368-c53f-4c00-a912-9d72af5b782a)
 
